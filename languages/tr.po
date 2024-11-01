@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-06-01 10:48+0300\n"
+"PO-Revision-Date: 2016-06-01 10:48+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/wgbc-init.php:7 includes/wgbc-init.php:19
+msgid "WGBC Carousels"
+msgstr ""
+
+#: includes/wgbc-init.php:8
+msgid "WGBC Carousel"
+msgstr ""
+
+#: includes/wgbc-init.php:9 includes/wgbc-init.php:10 includes/wgbc-init.php:12
+msgid "Add New WGBC Carousel"
+msgstr ""
+
+#: includes/wgbc-init.php:11
+msgid "Edit WGBC Carousel"
+msgstr ""
+
+#: includes/wgbc-init.php:13
+msgid "View WGBC Carousels"
+msgstr ""
+
+#: includes/wgbc-init.php:14
+msgid "View WGBC Carousel"
+msgstr ""
+
+#: includes/wgbc-init.php:15
+msgid "Search WGBC Carousels"
+msgstr ""
+
+#: includes/wgbc-init.php:16
+msgid "No Items found"
+msgstr ""
+
+#: includes/wgbc-init.php:17
+msgid "No Items found in Trash"
+msgstr ""
+
+#: includes/wgbc-metabox.php:14
+msgid "Slides"
+msgstr ""
+
+#: includes/wgbc-metabox.php:22
+msgid "Slider Options (Optional)"
+msgstr ""
+
+#: includes/wgbc-metabox.php:34
+msgid "Set Container's ID :"
+msgstr ""
+
+#: includes/wgbc-metabox.php:34
+msgid "Set id for the container"
+msgstr ""
+
+#: includes/wgbc-metabox.php:35
+msgid "Interval Time : (seconds)"
+msgstr ""
+
+#: includes/wgbc-metabox.php:35
+msgid "Default Time = 10 seconds"
+msgstr ""
